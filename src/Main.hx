@@ -10,6 +10,7 @@ import openfl.events.MouseEvent;
  */
 class Main extends Sprite 
 {
+
 	private static inline var SIZE:Int = 20;
 	private static inline var SEQUENCE_LENGTH:Int = 5;
 	
